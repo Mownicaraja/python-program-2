@@ -1,4 +1,4 @@
-days={"Monday":"yes","Tuesday":"yes","Wednesday":"yes","Thursday":"yes","Friday":"yes","Saturday":"no","Sunday":"no"}
+days={"Monday":"no","Tuesday":"no","Wednesday":"no","Thursday":"no","Friday":"no","Saturday":"yes","Sunday":"yes"}
 n=input()
 s=days[n]
 print(s)
