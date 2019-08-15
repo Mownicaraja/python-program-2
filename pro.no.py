@@ -1,2 +1,3 @@
 value=int(input())
-print(value)
+t=value
+print(t)
